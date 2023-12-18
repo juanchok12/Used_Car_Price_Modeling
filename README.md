@@ -7,7 +7,7 @@
 * What are the main characteristics of a used car which have the most impact on the car price? 
 
 ## Data
-* 'make'
+* `make`
 * num-of-doors
 * body-style
 * drive-wheels
