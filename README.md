@@ -39,7 +39,7 @@
 * Familiarized myself with the data.
 * Displayed descriptive statistical metrics
 ### Data Wranglign:
-* Replaced null values with useful ones, such a mean values or other useful values.
+* Replaced null values with useful ones, such a mean values or other.
 * Calculated means of selected columns to understand trends in data.
 * Changed data types.
 * Standardization of data metrics.
