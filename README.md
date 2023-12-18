@@ -3,9 +3,36 @@
 
 ## Overview & Objectives
 
-## Objecting
+### Research questions:
+* What are the main characteristics of a used car which have the most impact on the car price? 
 
 ## Data
+* make
+* num-of-doors
+* body-style
+* drive-wheels
+* engine-location
+* wheel-base
+* length
+* width
+* height
+* curb-weight
+* engine-type
+* num-of-cylinders
+* engine-size
+* fuel-system
+* bore
+* stroke
+* compression-ratio
+* horsepower
+* peak-rpm
+* city-mpg
+* highway-mpg
+* price
+* city-L/100km
+* horsepower-binned
+* fuel-type-diesel
+* fuel-type-gas
 
 ## Methodology
 ### Data Cleaning:
