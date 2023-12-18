@@ -46,6 +46,13 @@
 * Normalized data.
 * Created histogram to understand trends in horsepower in data.
 * Created indicator variables to create categorical binary variables (e.g. whether car use gas or diesel)
+## Exploratory Data Analysis:
+* Linear regression.
+* ANOVA hypothesis testing and F-testing.
+* P-value and Pearson Correlation Coefficient asssessment.
+* Descriptive statistical analysis.
+* Value counts and statistics by grouping
+
 
 ## Used Tools
 
