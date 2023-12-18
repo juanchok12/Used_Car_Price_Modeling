@@ -55,10 +55,10 @@
 
 
 ## Used Tools
-
-## Key Takeaways
 * Matplotlib
 * Numpy
 * Pandas
 * Seaborn
 * Scipy
+
+## Key Takeaways
