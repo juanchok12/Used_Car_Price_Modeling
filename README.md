@@ -4,7 +4,9 @@
 ## Overview & Objectives
 
 ### Research questions:
-* What are the main characteristics of a used car which have the most impact on the car price? 
+* What are the main characteristics of a used car which have the most impact on the car price?
+* How do we assess if a dealer is offering a fair value for a trade-in car?
+* How do we assess if we are placing a fair value on a used car?
 
 ## Data
 * `make`
@@ -60,5 +62,6 @@
 * Pandas
 * Seaborn
 * Scipy
+* Sklearn
 
 ## Key Takeaways
