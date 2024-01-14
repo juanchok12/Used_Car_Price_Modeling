@@ -73,6 +73,7 @@ For predicting price of used cars, we can narrow down the variables that have co
 * Engine-size
 * City-mpg
 * Highway-mpg
+
 For categorical variables:
 * Drive-wheels
 
