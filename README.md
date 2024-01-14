@@ -65,3 +65,14 @@
 * Sklearn
 
 ## Key Takeaways
+For predicting price of used cars, we can narrow down the variables that have correlations. For numerical variables: 
+* Length
+* Width
+* Horsepower
+* Curb-weigth
+* Engine-size
+* City-mpg
+* Highway-mpg
+For categorical variables:
+* Drive-wheels
+
