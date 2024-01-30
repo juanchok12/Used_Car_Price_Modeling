@@ -40,7 +40,7 @@
 ### Data Cleaning:
 * Familiarized myself with the data.
 * Displayed descriptive statistical metrics
-### Data Wranglign:
+### Data Wrangling:
 * Replaced null values with useful ones, such a mean values or other.
 * Calculated means of selected columns to understand trends in data.
 * Changed data types.
